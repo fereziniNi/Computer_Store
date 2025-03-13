@@ -1,0 +1,29 @@
+.radio-group {
+    margin: 24px 0;
+}
+
+.radio-label {
+    margin-bottom: 20px;
+    font-size: 38px;
+    color: #512260;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.radio-options {
+    display: flex;
+    gap: 30px;
+}
+
+.radio-option {
+    font-size: 28px;
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.radio-option input {
+    width: 15px;
+    height: 15px;
+    transform: scale(1.8);
+}

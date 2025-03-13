@@ -1,0 +1,9 @@
+.banner {}
+
+.banner img {
+    height: 50vh;
+    /* Ocupa 100% da altura da tela */
+    width: 100%;
+
+
+}

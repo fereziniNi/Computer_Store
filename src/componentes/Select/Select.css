@@ -1,0 +1,21 @@
+.select {
+    margin: 24px 0;
+}
+
+.select label {
+    margin: 20px 0;
+    font-size: 32px;
+    background-color: none;
+    color: #512260;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.select select {
+    background-color: #fff;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+}
