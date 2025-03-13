@@ -49,12 +49,14 @@ const Formulario = ({ secao, marca, isProductRegister }) => {
                     label="Nome: "
                     placeholder="Digite o nome do produto: "
                     isAlter={(valor) => setNome(valor)}
+                    type="text"
                 />
 
                 <CaixaTexto
                     label="Preço: "
                     placeholder="Digite o preço do produto: "
                     isAlter={(valor) => setPreco(valor)}
+                    type="number"
                 />
 
                 <RadioGroup

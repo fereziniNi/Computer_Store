@@ -7,7 +7,7 @@ const CampoTexto = (produto) => {
     return (
         <div className="campo-texto">
             <label> {produto.label} </label>
-            <input onChange={isEnter} placeholder={produto.placeholder} />
+            <input onChange={isEnter} placeholder={produto.placeholder} type={produto.type} />
         </div>
     )
 }
