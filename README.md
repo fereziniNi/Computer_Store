@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Computer_Store
 =======
 # Getting Started with Create React App
